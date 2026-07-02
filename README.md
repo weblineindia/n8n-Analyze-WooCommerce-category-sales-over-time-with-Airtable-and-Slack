@@ -1,0 +1,2 @@
+# n8n-Analyze-WooCommerce-category-sales-over-time-with-Airtable-and-Slack
+Track product category performance without building dashboards. This **n8n workflow automation** compares WooCommerce sales across daily, weekly, or monthly periods, classifies category trends, stores historical metrics in Airtable, and delivers concise Slack reports for faster merchandising and revenue decisions with **n8n**.
